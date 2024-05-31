@@ -9,7 +9,7 @@ legend:
       color: teal-6
 
 days:
-  - name: Day 1
+  - name: Monday June 10
     events:
       - time: 8:00 to 9:00
         title: Registration and coffee
@@ -31,7 +31,7 @@ days:
         title: Sed do eiusmod
         subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
         category: Another category
-  - name: Day 2
+  - name: Tuesday June 11
     events:
       - time: 8:00 to 9:00
         title: Coffee
@@ -54,3 +54,15 @@ days:
         category: Yet another category
       - time: 18:00 to 19:00
         title: Closing
+  - name: Wednesday June 12
+    events:
+      - time: 8:00 to 9:00
+        title: Coffee
+  - name: Thursday June 13
+    events:
+      - time: 8:00 to 9:00
+        title: Coffee
+  - name: Friday June 14
+    events:
+      - time: 8:00 to 9:00
+        title: Coffee
