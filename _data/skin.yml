@@ -1,14 +1,14 @@
 a:
-  color: blue-7         # links
-  hover: blue-9         # links when hovering
+  color: indigo-7         # links
+  hover: indigo-9         # links when hovering
 body:
   bg: indigo-0            # background
   color: gray-9         # body text
 btn-primary:
-  bg: blue-5            # primary button
+  bg: "#2A9D8F"            # primary button
   color: gray-0         # primary button text
-  hover: blue-7         # primary button when hovering
-  disabled: blue-3      # disabled primary button
+  hover: "#228176"         # primary button when hovering
+  disabled: "#4ED0C1"      # disabled primary button
 btn-secondary:
   bg: gray-4            # secondary button
   color: gray-0         # secondary button text
