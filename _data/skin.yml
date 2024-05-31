@@ -1,30 +1,30 @@
 a:
-  color: neon-pink      # links
-  hover: dark-blue-1    # links when hovering
+  color: '#ff00ff'        # neon pink links
+  hover: '#0d1b2a'        # dark blue when hovering
 body:
-  bg: dark-gray-1       # background
-  color: light-gray-3   # body text
+  bg: '#1c1c1c'           # dark gray background
+  color: '#a9a9a9'        # light gray body text
 btn-primary:
-  bg: dark-blue-2       # primary button
-  color: light-gray-1   # primary button text
-  hover: neon-pink      # primary button when hovering
-  disabled: dark-blue-3 # disabled primary button
+  bg: '#1b263b'           # dark blue primary button
+  color: '#d3d3d3'        # light gray primary button text
+  hover: '#ff00ff'        # neon pink primary button when hovering
+  disabled: '#415a77'     # disabled dark blue primary button
 btn-secondary:
-  bg: light-gray-2      # secondary button
-  color: dark-gray-1    # secondary button text
-  hover: light-gray-3   # secondary button when hovering
+  bg: '#696969'           # light gray secondary button
+  color: '#1c1c1c'        # dark gray secondary button text
+  hover: '#a9a9a9'        # light gray secondary button when hovering
 digit:
-  bg: light-gray-1      # background of digit on 404 page
+  bg: '#d3d3d3'           # light gray background of digit on 404 page
 header:
-  bg: dark-blue-1       # background of navigation bar
+  bg: '#0d1b2a'           # dark blue background of navigation bar
 index:
-  bg: dark-gray-2       # background of index container
+  bg: '#2f2f2f'           # dark gray background of index container
 navbar-brand:
-  color: neon-pink      # website name in header
-  hover: light-gray-3   # website name in header when hovering
+  color: '#ff00ff'        # neon pink website name in header
+  hover: '#a9a9a9'        # light gray website name in header when hovering
 nav-link:
-  color: light-gray-2   # navigation links in header
-  hover: neon-pink      # navigation links in header when hovering
+  color: '#a9a9a9'        # light gray navigation links in header
+  hover: '#ff00ff'        # neon pink navigation links in header when hovering
 text-muted:
-  color: light-gray-3   # light text
-  hover: neon-pink      # light text when hovering (if link)
+  color: '#a9a9a9'        # light gray text
+  hover: '#ff00ff'        # neon pink light text when hovering (if link)
