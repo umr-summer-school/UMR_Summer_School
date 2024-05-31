@@ -1,5 +1,5 @@
 ---
-layout: contributors
+layout: faq
 title: FAQ
 description: Questions and Answers
 navorder: 4
