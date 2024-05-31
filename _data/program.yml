@@ -101,11 +101,11 @@ days:
       - time: 12:00 to 1:30pm
         title: Catered lunch
         category: Events
-      - time: 1:30-2:30pm
+      - time: 1:30 to 2:30pm
         title:  Panel and discussion
         subtitle: "Pipeline vs. End-to-end parsing approaches".
         category: Workshop
-      - time: 2:30-3:00pm
+      - time: 2:30 to 3:00pm
         title:  Concluding remarks and future plans
         category: Events
       - time: 6:00 to 8:00pm
