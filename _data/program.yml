@@ -2,9 +2,11 @@ legend:
   title: Legend
   categories:
     - name: Tutorial
-      color: indigo-6
+      color: "#e9c46a"
     - name: Workshop
-      color: red-6
+      color: "#f4a261"
+    - name: Events
+      color: "#e76f51"
 
 days:
   - name: Monday June 10
@@ -30,6 +32,7 @@ days:
       - time: 6:00 to 8:00pm
         title: Welcome BBQ
         subtitle: An evening welcome BBQ at the Homewood Suites. Address - 4950 Baseline Rd, Boulder, CO 80303.
+        category: Events
   - name: Tuesday June 11
     events:
       - time: 8:00 to 9:00
