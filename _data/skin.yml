@@ -2,7 +2,7 @@ a:
   color: blue-7         # links
   hover: blue-9         # links when hovering
 body:
-  bg: "#CFF2EE"            # background
+  bg: indigo-0            # background
   color: gray-9         # body text
 btn-primary:
   bg: blue-5            # primary button
@@ -16,7 +16,7 @@ btn-secondary:
 digit:
   bg: gray-3            # background of digit on 404 page
 header:
-  bg: "#264653"            # background of navigation bar
+  bg: indigo-9            # background of navigation bar
 index:
   bg: gray-0            # background of index container
 navbar-brand:
