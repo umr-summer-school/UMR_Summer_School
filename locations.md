@@ -1,8 +1,8 @@
 ---
 layout: locations
-title: Locations
-description: Map of conference locations
+title: Location
+description: Map of CU Boulder
 navorder: 2
 ---
 
-Ultricies lacus sed turpis tincidunt.
+Please also see the campus map available at: https://www.colorado.edu/map.

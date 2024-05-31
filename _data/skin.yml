@@ -21,10 +21,10 @@ index:
   bg: gray-0            # background of index container
 navbar-brand:
   color: gray-0         # website name in header
-  hover: pink-0         # website name in header when hovering
+  hover: gray-1         # website name in header when hovering
 nav-link:
-  color: gray-7         # navigation links in header
-  hover: gray-9         # navigation links in header when hovering
+  color: gray-1         # navigation links in header
+  hover: gray-2         # navigation links in header when hovering
 text-muted:
   color: gray-6         # light text
   hover: gray-9         # light text when hovering (if link)
