@@ -42,20 +42,16 @@ Discourse relations in UMR
         category: Tutorial
       - time: 10:20 to 10:40am
         title: Break
-      - time: 9:00 to 10:20am
-        title: UMRs application other languages
-        subtitle: Jin Zhao and Ahmed Elsayed will walk through UMRs applications to other languages, specifically Chinese and Arabic.
+      - time: 10:40 to 12:00pm
+        title: Coreference, temporal and modal dependencies
+        subtitle: Presented by Julia Bonn.
         category: Tutorial
-      - time: 12:00pm to 1:30pm
+      - time: 12:00 to 1:30pm
         title: Lunch break
       - time: 1:30 to 4:30pm
-        title: UMR-Writer Tutorial
-        subtitle: Jin Zhao and Benet Post will give a hands-on workshop on how to use the [UMR Writer] (http://umr-tool.cs.brandeis.edu).
+        title:  MWEs, Discourse Relations, and Document-Level Annotation
+        subtitle: Benet Post and Martha Palmer will give a hands-on workshop on how UMR encodes different types of multi-word expressions (MWEs), about discourse and temporal relations, and explain document-level annotations.
         category: Workshop
-      - time: 6:00 to 8:00pm
-        title: Welcome BBQ
-        subtitle: An evening welcome BBQ at the Homewood Suites. Address - 4950 Baseline Rd, Boulder, CO 80303.
-        category: Events
   - name: Wednesday June 12
     events:
       - time: 8:00 to 9:00
