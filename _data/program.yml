@@ -2,11 +2,11 @@ legend:
   title: Legend
   categories:
     - name: Tutorial
-      color: "#e9c46a"
+      color: yellow-2
     - name: Workshop
-      color: "#f4a261"
+      color: orange-2
     - name: Events
-      color: "#e76f51"
+      color: red-2
 
 days:
   - name: Monday June 10
