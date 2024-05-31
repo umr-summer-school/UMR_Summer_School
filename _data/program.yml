@@ -1,37 +1,35 @@
 legend:
   title: Legend
   categories:
-    - name: A category
-      color: blue-6
-    - name: Another category
+    - name: Tutorial
+      color: indigo-6
+    - name: Workshop
       color: red-6
-    - name: Yet another category
-      color: teal-6
 
 days:
   - name: Monday June 10
     events:
-      - time: 8:00 to 9:00
+      - time: 8:30 to 9:00am
         title: Registration and coffee
-      - time: 9:00 to 11:00
-        title: Lorem ipsum
-        subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-        category: A category
-      - time: 11:00 to 13:00
-        title: Dolor sit amet
-        subtitle: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-        category: A category
-      - time: 13:00 to 14:00
+      - time: 9:00 to 10:20am
+        title: Intro to UMR and PENMAN
+        subtitle: Julia Bonn will introduce PENMAN graph structures and provide information about UMR and its distinction from AMR.
+        category: Tutorial
+      - time: 10:20 to 10:40am
+        title: Break
+      - time: 9:00 to 10:20am
+        title: UMRs application other languages
+        subtitle: Jin Zhao and Ahmed Elsayed will walk through UMRs applications to other languages, specifically Chinese and Arabic.
+        category: Tutorial
+      - time: 12:00pm to 1:30pm
         title: Lunch break
-      - time: 14:00 to 16:00
-        title: Consectetur adipiscing elit
-        subtitle: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-        category: Another category
-      - time: 16:00 to 18:00
-        title: Sed do eiusmod
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-        category: Another category
-  - name: Tuesday June 11
+      - time: 1:30 to 4:30pm
+        title: UMR-Writer Tutorial
+        subtitle: Jin Zhao and Benet Post will give a hands-on workshop on how to use the [UMR Writer] (http://umr-tool.cs.brandeis.edu).
+        category: Workshop
+      - time: 6:00 to 8:00pm
+        title: Welcome BBQ
+        subtitle: An evening welcome BBQ at the Homewood Suites. Address - 4950 Baseline Rd, Boulder, CO 80303.
     events:
       - time: 8:00 to 9:00
         title: Coffee
