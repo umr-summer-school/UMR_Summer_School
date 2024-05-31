@@ -92,11 +92,16 @@ days:
       - time: 9:15 to 10:15am
         title: Jeffrey Flanigan invited talk
         category: Events
-      - time: 10:15 to 10:40am
+      - time: 10:15 to 10:45am
         title: Coffee Break
-      - time: 10:40 to 12:00pm
-        title: Continuing on Arapaho data and annotation, annotating gestural AMR for Arapaho
-        subtitle: Presented by Andy Cowell.
+      - time: 10:45 to 11:10pm
+        title: Talk "Linearization Order Matters for AMR-to-Text Generation Input"   
+        category: Tutorial
+      - time: 11:10 to 11:35pm
+        title: Talk "Persian Abstract Meaning Representation - Annotation Guidelines and Gold Standard"  
+        category: Tutorial
+      - time: 11:35 to 12:00pm
+        title: Talk "Baseline Uniform Meaning Representation Parsing as a Pipelined Approach"
         category: Tutorial
       - time: 12:00 to 1:30pm
         title: Catered lunch
