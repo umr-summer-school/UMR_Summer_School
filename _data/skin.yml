@@ -1,0 +1,30 @@
+a:
+  color: neon-pink      # links
+  hover: dark-blue-1    # links when hovering
+body:
+  bg: dark-gray-1       # background
+  color: light-gray-3   # body text
+btn-primary:
+  bg: dark-blue-2       # primary button
+  color: light-gray-1   # primary button text
+  hover: neon-pink      # primary button when hovering
+  disabled: dark-blue-3 # disabled primary button
+btn-secondary:
+  bg: light-gray-2      # secondary button
+  color: dark-gray-1    # secondary button text
+  hover: light-gray-3   # secondary button when hovering
+digit:
+  bg: light-gray-1      # background of digit on 404 page
+header:
+  bg: dark-blue-1       # background of navigation bar
+index:
+  bg: dark-gray-2       # background of index container
+navbar-brand:
+  color: neon-pink      # website name in header
+  hover: light-gray-3   # website name in header when hovering
+nav-link:
+  color: light-gray-2   # navigation links in header
+  hover: neon-pink      # navigation links in header when hovering
+text-muted:
+  color: light-gray-3   # light text
+  hover: neon-pink      # light text when hovering (if link)
