@@ -7,6 +7,7 @@ copyright: false
 indexing: false
 
 exclude:
+  - demo/
   - jekyll-nagymaros.gemspec
   - LICENSE
   - README.md
