@@ -7,9 +7,6 @@ legend:
       color: orange-2
     - name: Events
       color: red-2
-    - name: A category
-      color: blue-6
-
 
 days:
   - name: Monday June 10
@@ -17,7 +14,7 @@ days:
       - time: 9:00 to 10:20am
         title: Intro to UMR and PENMAN
         subtitle: Julia Bonn will introduce PENMAN graph structures and provide information about UMR and its distinction from AMR.
-        category: A category
+        category: Tutorial
       - time: 10:20 to 10:40am
         title: Break
       - time: 10:40 to 12:00pm
