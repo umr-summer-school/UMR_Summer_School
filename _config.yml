@@ -1,0 +1,21 @@
+title: "UMR Summer School"
+description: "The 2024 UMR Summer School."
+baseurl: "https://clairepost.github.io/UMR_Summer_School/"
+url: "https://clairepost.github.io/UMR_Summer_School/"
+
+copyright: false
+indexing: false
+
+exclude:
+  - demo/
+  - jekyll-nagymaros.gemspec
+  - LICENSE
+  - README.md
+  - screenshot.png
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
