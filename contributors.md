@@ -1,5 +1,5 @@
 ---
-layout: contributors
+layout: faq
 title: Contributors
 description: List of organizers and participants
 navorder: 3
