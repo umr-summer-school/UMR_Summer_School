@@ -27,7 +27,7 @@ days:
         title: Lunch break
       - time: 1:30 to 4:30pm
         title: UMR-Writer Tutorial
-        subtitle: Jin Zhao and Benet Post will give a hands-on workshop on how to use the [UMR Writer] (http://umr-tool.cs.brandeis.edu).
+        subtitle: Jin Zhao and Benet Post will give a hands-on workshop on how to use the UMR Writer - http://umr-tool.cs.brandeis.edu.
         category: Workshop
       - time: 6:00 to 8:00pm
         title: Welcome BBQ
@@ -72,20 +72,20 @@ days:
   - name: Thursday June 13
     events:
       - time: 9:00 to 10:20am
-        title: Intro to Arapaho data and annotation and IGT to UMR.
-        subtitle: Intro to Arapahoe with Andy Cowell and IGT to UMR presentation with Alexis Palmer.
+        title: Extension of UMR to gesture, multi-modal UMR for Arapaho, Czech UMR
+        subtitle: Presented by Andy Cowell and Jan.
         category: Tutorial
       - time: 10:20 to 10:40am
         title: Break
       - time: 10:40 to 12:00pm
-        title: Continuing on Arapaho data and annotation, annotating gestural AMR for Arapaho
-        subtitle: Presented by Andy Cowell.
-        category: Tutorial
+        title: Annotating Other Languages
+        subtitle: Hands on workshop with Julia Bonn and Benet Post.
+        category: Workshop
       - time: 12:00 to 1:30pm
         title: Lunch break
       - time: 1:30 to 4:30pm
-        title:  Formal semantic interpretation of UMR, Extension of UMR to gesture, multi-modal UMR for English, and applications to Arapaho
-        subtitle: James Martin and Andy Cowell will give a hands-on workshop.
+        title:  UMRs in more languages and with multimodality
+        subtitle: A workshop with James Martin's students.
         category: Workshop
   - name: Friday June 14
     events:
