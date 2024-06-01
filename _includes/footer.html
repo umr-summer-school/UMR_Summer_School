@@ -1,10 +1,7 @@
 {% assign year = site.time | date: '%Y' %}
 {% if site.copyright and site.copyright != '' %}
 <footer class="container mb-4">
-    <!-- <small class="text-muted">Copyright &copy;{{ year }} {{ site.copyright }}. All rights reserved.</small> -->
-    <!-- <div class="footer-image" style="background-image: url('{{ "assets/images/lecs_bg.jpg" | relative_url }}'); height: 200px; background-size: cover; background-position: center;"> -->
     <img src="{{ 'assets/images/lecs_bg.jpg' | relative_url }}" alt="Footer Image" class="img-fluid">
-    <!-- Extra details like contact info or address can go here -->
     <small class="text-muted">Copyright &copy;{{ year }} {{ site.copyright }}. All rights reserved.</small>
-
 </footer>
+{% endif %}
