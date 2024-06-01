@@ -8,7 +8,7 @@ btn-primary:
   bg: "#2A9D8F"            # primary button
   color: gray-0         # primary button text
   hover: indigo-7         # primary button when hovering
-  disabled: "indigo-5      # disabled primary button
+  disabled: indigo-5      # disabled primary button
 btn-secondary:
   bg: gray-4            # secondary button
   color: gray-0         # secondary button text
