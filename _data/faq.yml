@@ -7,7 +7,7 @@ groups:
       - name: To get to Boulder you can take a Taxi, UBER, or Lyft. A more cost efficient option that we recommend is taking the AB1 bus that only costs $10. You can pay with cash on the bus or set up an online account and pay in advance. You may also pay at the bus terminal below the airport.
       - name: You can find the AB1 bus schedule at https://app.rtd-denver.com/route/AB1/schedule?serviceType=1&direction=Westbound&branch=. Be sure to look at the “westbound” times for the day you will arrive (Saturday or Sunday). The bus leaves from the RTD Transit Center at the main terminal, Level 1, Gate 8. Look for the signs in the main terminal and try to be at the Gate 10-15 minutes early, when they begin to load the bus. 
       - name: The bus takes about an hour and the “US 36 & Table Mesa Park-n-Ride” stop is the closest to the Homewood Suites hotel. From this stop to the hotel, it is 5 minutes by car (so an UBER should cost less than $10) or, if you don’t have a lot of luggage, you can walk in about 20 minutes. 
-    - title: Hotel
+  - title: Hotel
     columns: false
     members: 
       - name: The hotel that most attendees will be at is the Homewood Suites Hotel.
