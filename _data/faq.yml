@@ -1,6 +1,36 @@
 groups:
+
+  - title: Arrival from Airport
+    columns: false
+    members: 
+      - name: Most participants will arrive via the Denver International Airport (DIA). It is about 40 miles from Boulder.
+      - name: To get to Boulder you can take a Taxi, UBER, or Lyft. A more cost efficient option that we recommend is taking the AB1 bus that only costs $10. You can pay with cash on the bus or set up an online account and pay in advance. You may also pay at the bus terminal below the airport.
+      - name: You can find the AB1 bus schedule at https://app.rtd-denver.com/route/AB1/schedule?serviceType=1&direction=Westbound&branch=. Be sure to look at the “westbound” times for the day you will arrive (Saturday or Sunday). The bus leaves from the RTD Transit Center at the main terminal, Level 1, Gate 8. Look for the signs in the main terminal and try to be at the Gate 10-15 minutes early, when they begin to load the bus. 
+      - name: The bus takes about an hour and the “US 36 & Table Mesa Park-n-Ride” stop is the closest to the Homewood Suites hotel. From this stop to the hotel, it is 5 minutes by car (so an UBER should cost less than $10) or, if you don’t have a lot of luggage, you can walk in about 20 minutes. 
+    - title: Hotel
+    columns: false
+    members: 
+      - name: The hotel that most attendees will be at is the Homewood Suites Hotel.
+      - name: Check-in is from 3:00 PM to 2:00 AM, Check-out is by 12:00 PM.
+      - name: Upon arrival you should receive a letter with further information and a gift card to Safeway for essentials. The Safeway supermarket is just a short 5 minute walk away.
+      - There is complimentary breakfast on weekdays at the hotel from 6:30-9:30am and on weekends from 7:00-10:00am.
+  - title: Getting to Campus
+    columns: false
+    members: 
+      - name: The hotel is about 2½ miles (4 km) from the Lucile Berkeley Buchanan building on the University of Colorado campus where we will hold the Summer School.
+      - name: There is a free hotel shuttle bus in the morning (from 8:15-8:45) that will take you to campus, and we will have a sign-up sheet at reception, as the bus holds only 8 people at a time and will need to make several trips. 
+      - name: The bus stop closest to the hotel is “Baseline-Mohawk”, which is about 8 minutes walking from the hotel. 
+  - title: About Boulder
+    columns: false
+    members: The city of Boulder is 5,430 feet (1,655 meters) above sea level. The high altitude can cause mild altitude sickness and increased exposure to UV rays.
+    members: Typical recommendations for visitors include to drink lots of water, avoid excessive physical activity when coming from lower altitude, wear sunblock and sunglasses, and to wear UV protected clothing.
+    members: June is a summer month and Boulder temperatures range between 54°-86°F (12°-30°C), but when you are in the sun, it can feel much warmer. Our climate is generally very dry, but we often have brief afternoon rainstorms and even in the summer, evenings can be cool - so don’t forget to pack a jacket and an umbrella or raincoat.
   - title: Food
     columns: false
     members: 
       - name: Need some recommendations for places to eat lunch in Boulder? Maybe checkout - Illegal Pete's, Sherpa’s Adventure Restaurant and Bar, Gaia Masala and Burger, or The Sink.
+      - name: The UMR Summer School will also be providing lunch at the C4C on most days, unless otherwise specified. The C4C is a large and popular cafeteria on CU Boulder's campus.
+  - title: Things To Do in Free Time
+    columns: false
+    members: Some fun things to do in your free time include visiting Chautauqua, Pearl Street Mall, Boulder Creek Trail, and the Farmer’s market.
   
