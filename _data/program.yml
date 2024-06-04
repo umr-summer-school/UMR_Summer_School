@@ -11,18 +11,23 @@ legend:
 days:
   - name: Monday June 10
     events:
+      - time: 8:00 to 9:00am
+        title: Arrival at CU Boulder, Lucile Berkeley Buchanan (LBB) Building
+        subtitle: Kris Stenzel will be at the hotel directing students to shuttles taking them to campus at this time.
       - time: 9:00 to 10:20am
         title: Intro to UMR and PENMAN
         subtitle: Julia Bonn will introduce PENMAN graph structures and provide information about UMR and its distinction from AMR.
         category: Tutorial
       - time: 10:20 to 10:40am
-        title: Break
+        title: Coffee Break
+        subtitle: Items such as bus tickets will be distributed during this coffee break.
       - time: 10:40 to 12:00pm
         title: UMRs application other languages
         subtitle: Jin Zhao and Ahmed Elsayed will walk through UMRs applications to other languages, specifically Chinese and Arabic.
         category: Tutorial
       - time: 12:00 to 1:30pm
         title: Lunch break
+        subtitle: Lunch will be provided at the Center for Community (C4C) on campus for participants and organizers.
       - time: 1:30 to 4:30pm
         title: UMR-Writer Tutorial
         subtitle: Jin Zhao and Benet Post will give a hands-on workshop on how to use the UMR Writer - http://umr-tool.cs.brandeis.edu.
@@ -38,13 +43,14 @@ days:
         subtitle: Presented by Julia Bonn.
         category: Tutorial
       - time: 10:20 to 10:40am
-        title: Break
+        title: Coffee Break
       - time: 10:40 to 12:00pm
         title: Coreference, temporal and modal dependencies
         subtitle: Presented by Julia Bonn.
         category: Tutorial
       - time: 12:00 to 1:30pm
         title: Lunch break
+        subtitle: Lunch will be provided at the Center for Community (C4C) on campus for participants and organizers.
       - time: 1:30 to 4:30pm
         title:  MWEs, Discourse Relations, and Document-Level Annotation
         subtitle: Benet Post and Martha Palmer will give a hands-on workshop on how UMR encodes different types of multi-word expressions (MWEs), about discourse and temporal relations, and explain document-level annotations.
@@ -56,16 +62,17 @@ days:
         subtitle: Intro to Arapahoe with Andy Cowell and IGT to UMR presentation with Alexis Palmer.
         category: Tutorial
       - time: 10:20 to 10:40am
-        title: Break
+        title: Coffee Break
       - time: 10:40 to 12:00pm
         title: Continuing on Arapaho data and annotation, annotating gestural AMR for Arapaho
         subtitle: Presented by Andy Cowell.
         category: Tutorial
       - time: 12:00 to 1:30pm
         title: Lunch break
+        subtitle: Lunch will be provided at the Center for Community (C4C) on campus for participants and organizers.
       - time: 1:30 to 4:30pm
         title:  Formal semantic interpretation of UMR, Extension of UMR to gesture, multi-modal UMR for English, and applications to Arapaho
-        subtitle: James Martin and Andy Cowell will give a hands-on workshop.
+        subtitle: James Pustejovsky and Andy Cowell will give a hands-on workshop.
         category: Workshop
   - name: Thursday June 13
     events:
@@ -74,16 +81,17 @@ days:
         subtitle: Presented by Andy Cowell and Jan.
         category: Tutorial
       - time: 10:20 to 10:40am
-        title: Break
+        title: Coffee Break
       - time: 10:40 to 12:00pm
         title: Annotating Other Languages
         subtitle: Hands on workshop with Julia Bonn and Benet Post.
         category: Workshop
       - time: 12:00 to 1:30pm
         title: Lunch break
+        subtitle: Lunch will be provided at the Center for Community (C4C) on campus for participants and organizers.
       - time: 1:30 to 4:30pm
         title:  UMRs in more languages and with multimodality
-        subtitle: A workshop with James Martin's students.
+        subtitle: A workshop with James Pustejovsky's students.
         category: Workshop
   - name: Friday June 14
     events:
