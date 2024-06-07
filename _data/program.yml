@@ -101,20 +101,23 @@ days:
       - time: 10:15 to 10:45am
         title: Coffee Break
       - time: 10:45 to 11:10pm
-        title: Talk "Linearization Order Matters for AMR-to-Text Generation Input"   
+        title: "Linearization Order Matters for AMR-to-Text Generation Input"   
+        subtitle:  Talk - Justin DeBenedetto 
         category: Tutorial
       - time: 11:10 to 11:35pm
-        title: Talk "Persian Abstract Meaning Representation - Annotation Guidelines and Gold Standard"  
+        title: "Persian Abstract Meaning Representation - Annotation Guidelines and Gold Standard"  
+        subtitle:  Talk - Reza Takhshid, Tara Azin, Razieh Shojaei and Mohammad Bahrani 
         category: Tutorial
       - time: 11:35 to 12:00pm
-        title: Talk "Baseline Uniform Meaning Representation Parsing as a Pipelined Approach"
+        title: "Baseline Uniform Meaning Representation Parsing as a Pipelined Approach"
+        subtitle:  Talk - Jayeol Chun and Nianwen Xue
         category: Tutorial
       - time: 12:00 to 1:30pm
         title: Catered lunch
         category: Events
       - time: 1:30 to 2:30pm
-        title:  Panel and discussion
-        subtitle: "Pipeline vs. End-to-end parsing approaches"
+        title:  "Pipeline vs. End-to-end parsing approaches"
+        subtitle: Panel and discussion
         category: Workshop
       - time: 2:30 to 3:00pm
         title:  Concluding remarks and future plans
