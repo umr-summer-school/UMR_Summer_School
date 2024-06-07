@@ -78,7 +78,7 @@ days:
     events:
       - time: 9:00 to 10:20am
         title: Extension of UMR to gesture, multi-modal UMR for Arapaho, Czech UMR
-        subtitle: Presented by Andy Cowell and Jan.
+        subtitle: Presented by Andy Cowell and Jan Hajič.
         category: Tutorial
       - time: 10:20 to 10:40am
         title: Coffee Break
