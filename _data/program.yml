@@ -55,71 +55,71 @@ days:
         title:  MWEs, Discourse Relations, and Document-Level Annotation
         subtitle: Benet Post and Martha Palmer will give a hands-on workshop on how UMR encodes different types of multi-word expressions (MWEs), about discourse and temporal relations, and explain document-level annotations.
         category: Workshop
-  - name: Wednesday June 12
-    events:
-      - time: 9:00 to 10:20am
-        title: Intro to Arapaho data and annotation and IGT to UMR.
-        subtitle: Intro to Arapahoe with Andy Cowell and IGT to UMR presentation with Alexis Palmer.
-        category: Tutorial
-      - time: 10:20 to 10:40am
-        title: Coffee Break
-      - time: 10:40 to 12:00pm
-        title: Continuing on Arapaho data and annotation, annotating gestural AMR for Arapaho
-        subtitle: Presented by Andy Cowell.
-        category: Tutorial
-      - time: 12:00 to 1:30pm
-        title: Lunch break
-        subtitle: Lunch will be provided at the Center for Community (C4C) on campus for participants and organizers.
-      - time: 1:30 to 4:30pm
-        title:  Formal semantic interpretation of UMR, Extension of UMR to gesture, multi-modal UMR for English, and applications to Arapaho
-        subtitle: James Pustejovsky and Andy Cowell will give a hands-on workshop.
-        category: Workshop
-  - name: Thursday June 13
-    events:
-      - time: 9:00 to 10:20am
-        title: Extension of UMR to gesture, multi-modal UMR for Arapaho, Czech UMR
-        subtitle: Presented by Andy Cowell and Jan.
-        category: Tutorial
-      - time: 10:20 to 10:40am
-        title: Coffee Break
-      - time: 10:40 to 12:00pm
-        title: Annotating Other Languages
-        subtitle: Hands on workshop with Julia Bonn and Benet Post.
-        category: Workshop
-      - time: 12:00 to 1:30pm
-        title: Lunch break
-        subtitle: Lunch will be provided at the Center for Community (C4C) on campus for participants and organizers.
-      - time: 1:30 to 4:30pm
-        title:  UMRs in more languages and with multimodality
-        subtitle: A workshop with James Pustejovsky's students.
-        category: Workshop
-  - name: Friday June 14
-    events:
-      - time: 9:15 to 10:15am
-        title: Jeffrey Flanigan invited talk
-        category: Events
-      - time: 10:15 to 10:45am
-        title: Coffee Break
-      - time: 10:45 to 11:10pm
-        title: Talk "Linearization Order Matters for AMR-to-Text Generation Input"   
-        category: Tutorial
-      - time: 11:10 to 11:35pm
-        title: Talk "Persian Abstract Meaning Representation - Annotation Guidelines and Gold Standard"  
-        category: Tutorial
-      - time: 11:35 to 12:00pm
-        title: Talk "Baseline Uniform Meaning Representation Parsing as a Pipelined Approach"
-        category: Tutorial
-      - time: 12:00 to 1:30pm
-        title: Catered lunch
-        category: Events
-      - time: 1:30 to 2:30pm
-        title:  Panel and discussion
-        subtitle: "Pipeline vs. End-to-end parsing approaches"
-        category: Workshop
-      - time: 2:30 to 3:00pm
-        title:  Concluding remarks and future plans
-        category: Events
-      - time: 6:00 to 8:00pm
-        title: Group Dinner
-        subtitle: An evening dinner at the Taj Restaurant in Boulder.
-        category: Events
+  # - name: Wednesday June 12
+  #   events:
+  #     - time: 9:00 to 10:20am
+  #       title: Intro to Arapaho data and annotation and IGT to UMR.
+  #       subtitle: Intro to Arapahoe with Andy Cowell and IGT to UMR presentation with Alexis Palmer.
+  #       category: Tutorial
+  #     - time: 10:20 to 10:40am
+  #       title: Coffee Break
+  #     - time: 10:40 to 12:00pm
+  #       title: Continuing on Arapaho data and annotation, annotating gestural AMR for Arapaho
+  #       subtitle: Presented by Andy Cowell.
+  #       category: Tutorial
+  #     - time: 12:00 to 1:30pm
+  #       title: Lunch break
+  #       subtitle: Lunch will be provided at the Center for Community (C4C) on campus for participants and organizers.
+  #     - time: 1:30 to 4:30pm
+  #       title:  Formal semantic interpretation of UMR, Extension of UMR to gesture, multi-modal UMR for English, and applications to Arapaho
+  #       subtitle: James Pustejovsky and Andy Cowell will give a hands-on workshop.
+  #       category: Workshop
+  # - name: Thursday June 13
+  #   events:
+  #     - time: 9:00 to 10:20am
+  #       title: Extension of UMR to gesture, multi-modal UMR for Arapaho, Czech UMR
+  #       subtitle: Presented by Andy Cowell and Jan.
+  #       category: Tutorial
+  #     - time: 10:20 to 10:40am
+  #       title: Coffee Break
+  #     - time: 10:40 to 12:00pm
+  #       title: Annotating Other Languages
+  #       subtitle: Hands on workshop with Julia Bonn and Benet Post.
+  #       category: Workshop
+  #     - time: 12:00 to 1:30pm
+  #       title: Lunch break
+  #       subtitle: Lunch will be provided at the Center for Community (C4C) on campus for participants and organizers.
+  #     - time: 1:30 to 4:30pm
+  #       title:  UMRs in more languages and with multimodality
+  #       subtitle: A workshop with James Pustejovsky's students.
+  #       category: Workshop
+  # - name: Friday June 14
+  #   events:
+  #     - time: 9:15 to 10:15am
+  #       title: Jeffrey Flanigan invited talk
+  #       category: Events
+  #     - time: 10:15 to 10:45am
+  #       title: Coffee Break
+  #     - time: 10:45 to 11:10pm
+  #       title: Talk "Linearization Order Matters for AMR-to-Text Generation Input"   
+  #       category: Tutorial
+  #     - time: 11:10 to 11:35pm
+  #       title: Talk "Persian Abstract Meaning Representation - Annotation Guidelines and Gold Standard"  
+  #       category: Tutorial
+  #     - time: 11:35 to 12:00pm
+  #       title: Talk "Baseline Uniform Meaning Representation Parsing as a Pipelined Approach"
+  #       category: Tutorial
+  #     - time: 12:00 to 1:30pm
+  #       title: Catered lunch
+  #       category: Events
+  #     - time: 1:30 to 2:30pm
+  #       title:  Panel and discussion
+  #       subtitle: "Pipeline vs. End-to-end parsing approaches"
+  #       category: Workshop
+  #     - time: 2:30 to 3:00pm
+  #       title:  Concluding remarks and future plans
+  #       category: Events
+  #     - time: 6:00 to 8:00pm
+  #       title: Group Dinner
+  #       subtitle: An evening dinner at the Taj Restaurant in Boulder.
+  #       category: Events
