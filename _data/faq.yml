@@ -38,5 +38,5 @@ groups:
   
   - title: Helpful Links
     columns: false
-    members: ✮ Here are the pages for the <a href=https://umr4nlp.github.io/web/>UMR Website</a>, <a href=http://umr-tool.cs.brandeis.edu>UMR Writer</a>. <a href=https://github.com/umr4nlp/umr-guidelines/blob/master/guidelines.md>UMR Guidelines</a>, <a href=https://github.com/umr-summer-school?tab=repositories>UMR Summer School Github</a>, and <a href=https://lecs-lab.github.io>LECs Lab</a>.
+    members: ✮ Here are the pages for the <a href="https://umr4nlp.github.io/web/>UMR Website"</a>, <a href="http://umr-tool.cs.brandeis.edu">UMR Writer</a>. <a href="https://github.com/umr4nlp/umr-guidelines/blob/master/guidelines.md>UMR Guidelines"</a>, <a href="https://github.com/umr-summer-school?tab=repositories">UMR Summer School Github</a>, and <a href="https://lecs-lab.github.io">LECs Lab</a>.
   
