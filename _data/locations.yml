@@ -2,11 +2,17 @@ center: 40.0071198164314, -105.27361421535012
 zoom: 14
 
 markers:
-  - title: Lucile Berkeley Buchanan Building
+  - title: Lucile Berkeley Buchanan (LBB) Building
     text: Main building where we will be at CU Boulder
     latlng: 40.0071198164314, -105.27361421535012
-  # - title: This is a tooltip with no text
-  #   latlng: 47.78691841448565, 18.967277537789023
+  - title: Center for Community (C4C)
+    text: Location for lunch
+    latlng: 40.00441243939703, -105.26492991150707
+  - title: University Memorial Center (UMC)
+    text: Where Friday's session will be held.
+    latlng: 40.00648960328857, -105.27197356048553
+    
+  
 
 areas:
   - text:
