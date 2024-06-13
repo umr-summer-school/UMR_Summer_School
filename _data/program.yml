@@ -96,7 +96,8 @@ days:
   - name: Friday June 14
     events:
       - time: 9:15 to 10:15am
-        title: Jeffrey Flanigan invited talk
+        title: "LLM Prompting Methods for Discourse-Level Graph Representations"
+        subtitle: Jeffrey Flanigan invited talk
         category: Events
       - time: 10:15 to 10:45am
         title: Coffee Break
@@ -123,6 +124,6 @@ days:
         title:  Concluding remarks and future plans
         category: Events
       - time: 6:00 to 8:00pm
-        title: Group Dinner
+        title: Group Dinner 
         subtitle: An evening dinner at the Taj Restaurant in Boulder.
         category: Events
