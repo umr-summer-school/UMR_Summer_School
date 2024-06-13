@@ -39,12 +39,12 @@ groups:
     columns: false
     members: 
       - name: Here are the pages for the 
-      - name: - <a href="https://umr4nlp.github.io/web/">UMR Website</a>
-      - name: - <a href="http://umr-tool.cs.brandeis.edu">UMR Writer</a>. 
-      - name: - <a href="https://github.com/umr4nlp/umr-guidelines/blob/master/guidelines.md">UMR Guidelines"</a>, 
-      - name: - <a href="https://github.com/umr-summer-school?tab=repositories">UMR Summer School Github</a>, 
-      - name: - <a href="https://lecs-lab.github.io">LECs Lab</a> https://drive.google.com/drive/folders/1F_J6oH9NdUcBVr7IKnrP1l--DKVhra8O?usp=sharing Drive link
-      - name: - <a href="https://drive.google.com/drive/folders/1F_J6oH9NdUcBVr7IKnrP1l--DKVhra8O?usp=sharing">Drive with helpful materials</a>
+      - name: <a href="https://umr4nlp.github.io/web/">UMR Website</a>
+      - name: <a href="http://umr-tool.cs.brandeis.edu">UMR Writer</a>. 
+      - name: <a href="https://github.com/umr4nlp/umr-guidelines/blob/master/guidelines.md">UMR Guidelines"</a>, 
+      - name: <a href="https://github.com/umr-summer-school?tab=repositories">UMR Summer School Github</a>, 
+      - name: <a href="https://lecs-lab.github.io">LECs Lab</a> https://drive.google.com/drive/folders/1F_J6oH9NdUcBVr7IKnrP1l--DKVhra8O?usp=sharing Drive link
+      - name: <a href="https://drive.google.com/drive/folders/1F_J6oH9NdUcBVr7IKnrP1l--DKVhra8O?usp=sharing">Drive with helpful materials</a>
 
 
       
